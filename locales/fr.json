@@ -6,7 +6,7 @@
   },
   "cart": {
     "items": "{count, plural, one {# article} many {# d’articles} other {# articles}}",
-    "checkout": "Passer au paiement",
+    "checkout": "Continuer vers le paiement",
     "empty": "Votre panier est vide"
   }
 }
