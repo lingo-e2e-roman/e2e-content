@@ -2,7 +2,7 @@
   "app": {
     "title": "Lingo test app",
     "greeting": "Hello, {name}!",
-    "subtitle": "Translate everything, everywhere."
+    "subtitle": "Translate everything, everywhere, at once."
   },
   "cart": {
     "items": "{count, plural, one {# item} other {# items}}",
