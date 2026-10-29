@@ -3,6 +3,7 @@
     "title": "Settings",
     "language": "Language",
     "save": "Save changes",
-    "theme": "Theme"
+    "theme": "Theme",
+    "privacy": "Privacy"
   }
 }
