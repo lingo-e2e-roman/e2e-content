@@ -6,6 +6,7 @@
   },
   "cart": {
     "items": "{count, plural, one {# item} other {# items}}",
-    "checkout": "Proceed to checkout"
+    "checkout": "Continue to payment",
+    "empty": "Your cart is empty"
   }
 }
