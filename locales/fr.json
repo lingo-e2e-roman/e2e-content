@@ -5,7 +5,7 @@
     "subtitle": "Traduisez tout, partout, en une seule fois."
   },
   "cart": {
-    "items": "{count, plural, one {# article} many {# d'articles} other {# articles}}",
+    "items": "{count, plural, one {# article} many {# d’articles} other {# articles}}",
     "checkout": "Passer au paiement",
     "empty": "Votre panier est vide"
   }
