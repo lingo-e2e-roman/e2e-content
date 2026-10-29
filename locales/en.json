@@ -1,0 +1,4 @@
+{
+  "app": { "title": "Lingo test app", "greeting": "Hello, {name}!" },
+  "cart": { "items": "{count, plural, one {# item} other {# items}}", "checkout": "Proceed to checkout" }
+}
