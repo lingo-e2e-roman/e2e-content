@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "Lingo test app",
+    "title": "Lingo demo",
     "greeting": "Hello, {name}!",
     "subtitle": "Translate everything, everywhere, at once."
   },

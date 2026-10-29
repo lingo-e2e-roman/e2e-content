@@ -2,7 +2,7 @@
   "orgId": "org_H4xo5NH7WqM0PxsBYV6B",
   "engineId": "eng_vo3g9ClFjOAIsndDFjY4",
   "sourceLocale": "en",
-  "targetLocales": ["de", "fr"],
+  "targetLocales": "de",
   "files": [{ "pattern": "locales/en.json" }, { "pattern": "locales/en/settings.json" }],
   "github": {
     "workflows": { "onPushToDefaultBranch": { "enabled": true }, "onPullRequest": { "enabled": true } },
