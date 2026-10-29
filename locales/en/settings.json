@@ -1,1 +1,8 @@
-{ "settings": { "title": "Settings", "language": "Language", "save": "Save changes" } }
+{
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "save": "Save changes",
+    "theme": "Theme"
+  }
+}
