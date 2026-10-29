@@ -1,0 +1,11 @@
+{
+  "app": {
+    "title": "Lingo-Test-App",
+    "greeting": "Hallo, {name}!",
+    "subtitle": "Übersetze alles, überall, auf einmal."
+  },
+  "cart": {
+    "items": "{count, plural, one {# Artikel} other {# Artikel}}",
+    "checkout": "Weiter zur Kasse"
+  }
+}
