@@ -1,0 +1,17 @@
+{
+  "app": {
+    "title": "Lingo-Test-App",
+    "greeting": "Hallo, {name}!",
+    "subtitle": "Alles übersetzen, überall, auf einmal."
+  },
+  "cart": {
+    "items": "{count, plural, one {# Artikel} other {# Artikel}}",
+    "checkout": "Zur Kasse",
+    "empty": "Dein Warenkorb ist leer"
+  },
+  "g2.reinstall": "Neu installierte App synchronisiert weiterhin",
+  "checkout": {
+    "proceed": "Zur Kasse",
+    "payByCard": "Mit Karte zahlen"
+  }
+}
