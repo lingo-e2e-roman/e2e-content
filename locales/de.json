@@ -6,12 +6,12 @@
   },
   "cart": {
     "items": "{count, plural, one {# Artikel} other {# Artikel}}",
-    "checkout": "Zur Kasse gehen",
+    "checkout": "Zur Kasse",
     "empty": "Dein Warenkorb ist leer"
   },
   "g2.reinstall": "Neu installierte App synchronisiert weiterhin",
   "checkout": {
-    "proceed": "Zur Kasse gehen",
-    "payByCard": "Mit Karte bezahlen"
+    "proceed": "Zur Kasse",
+    "payByCard": "Mit Karte zahlen"
   }
 }
