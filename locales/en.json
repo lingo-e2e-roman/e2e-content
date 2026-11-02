@@ -9,5 +9,9 @@
     "checkout": "Proceed to checkout",
     "empty": "Your cart is empty"
   },
-  "g2.reinstall": "Reinstalled app still syncs"
+  "g2.reinstall": "Reinstalled app still syncs",
+  "checkout": {
+    "proceed": "Proceed to checkout",
+    "payByCard": "Pay by card"
+  }
 }
