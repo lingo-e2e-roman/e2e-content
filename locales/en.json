@@ -15,6 +15,7 @@
     "payByCard": "Pay by card"
   },
   "refusal": {
-    "title": "Only writers can translate"
+    "title": "Only writers can translate",
+    "body": "Ask a maintainer to approve"
   }
 }
