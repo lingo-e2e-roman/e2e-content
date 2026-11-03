@@ -17,6 +17,7 @@
   "refusal": {
     "title": "Only writers can translate",
     "body": "Ask a maintainer to approve",
-    "after": "Pushed after reinstall"
+    "after": "Pushed after reinstall",
+    "reconnect": "Pushed after Reconnect"
   }
 }
