@@ -13,5 +13,8 @@
   "checkout": {
     "proceed": "Proceed to checkout",
     "payByCard": "Pay by card"
+  },
+  "refusal": {
+    "title": "Only writers can translate"
   }
 }
